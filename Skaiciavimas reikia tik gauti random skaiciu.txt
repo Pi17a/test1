@@ -1,0 +1,14 @@
+#include <iostream>
+
+using namespace std;
+
+int main ()
+{
+	
+	
+	
+	Skaicius = sk1 * sk2;
+	cout << "Sandauga lygi " << Skaicius << endl;
+
+return 0;
+}
